@@ -1,0 +1,1 @@
+# az-integrate-app-insights
